@@ -12,7 +12,7 @@ GitHub raw 経由で配信し、Meta が画像として取得できる（content
 ## 配信URLの形式
 
 ```
-https://raw.githubusercontent.com/m321you/enmusubi-ig-assets/main/images/YYYY/MM/{filename}.jpg
+https://raw.githubusercontent.com/furutori-llc/enmusubi-ig-assets/main/images/YYYY/MM/{filename}.jpg
 ```
 
 ## 置いてはいけないもの
